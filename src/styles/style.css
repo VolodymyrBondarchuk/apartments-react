@@ -1,0 +1,215 @@
+.scroll-container{
+
+}
+
+.inbox-icon-span {
+    position: absolute;
+    right: 9%;
+    line-height: 41px;
+    visibility: hidden;
+}
+
+.plus-icon-span {
+    position: absolute;
+    right: 13%;
+    line-height: 41px;
+}
+
+.top-menu-bar-container {
+    padding: 6%;
+    height: 25px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.top-menu-bar-container a {
+    line-height: 35px;
+    position: absolute;
+    left: 9.5%;
+}
+
+.menu-bar-title {
+    line-height: 29px;
+    display: inline-block;
+    zoom: 1;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.data-loading {
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+}
+
+.separator {
+    padding: 0% 0% 0% 10%;
+    height: 44px;
+    line-height: 47px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.separator-black {
+    color: #000000;
+}
+
+.separator-red {
+    color: #FF0000;
+}
+
+.inline-block-radio-btn{
+    width: 23px;
+    height: 23px;
+    border-radius: 23px;
+    border: 1px solid #B79B9B;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.inline-block-radio-btn .selected{
+    width: 11px;
+    height: 11px;
+    border-radius: 23px;
+    background: #00BCD4;
+    display: inline-block;
+    zoom: 1;
+}
+
+.add-card-number-body-container, .add-card-holder-body-container {
+    width: 100%;
+    height: 65px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    background: white;
+    align-items: center;
+    transition: align-items 1s;
+    transform: translateY(0%);
+    transition: all 0.5s;
+    display: inline-block;
+}
+
+.add-card-number-body-container input {
+    width: 82%;
+}
+
+.add-card-cvc-body-container {
+    width: 50%;
+    height: 70px;
+    margin-top: 5px;
+    background: white;
+    align-items: center;
+    transition: align-items 1s;
+    transform: translateY(0%);
+    transition: all 0.5s;
+    display: inline-block;
+}
+
+.add-card-cvc-body-container input {
+    width: 65%;
+}
+
+.add-card-exp-date-body-container {
+    width: 50%;
+    height: 70px;
+    margin-top: 5px;
+    background: white;
+    align-items: center;
+    transition: align-items 1s;
+    transform: translateY(0%);
+    transition: all 0.5s;
+    display: inline-block;
+}
+
+.add-card-exp-date-body-container input {
+    width: 65%;
+}
+
+
+.add-card-holder-body-container input {
+    width: 82%;
+}
+
+.add-card-body {
+    padding-top: 5%;
+    background: white;
+    transition: align-items 1s;
+    transform: translateY(0%);
+    transition: all 0.5s;
+}
+
+.add-card-body div {
+
+    padding-left: 23px;
+    color: #199bd2;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.padding-top-7px {
+    padding-top: 7px;
+}
+
+.add-card-container {
+    background: #ffffff;
+    height: 40%;
+    width: 100%;
+    position: fixed;
+}
+
+.add-card-description{
+    color: #976969;
+    font-size: 13px;
+    background: #f1fcff;
+    padding: 5%;
+}
+
+.add-card-policy{
+    color: #9C3ACA;
+    font-size: 13px;
+    background: #f1fcff;
+    padding: 5%;
+    text-decoration: none;
+}
+
+.policy-description{
+    color: #976969;
+    font-size: 13px;
+    background: #f1fcff;
+    padding: 5%;
+}
+
+.add-card-message {
+    position: absolute;
+    display: inline-block;
+    padding: 2%;
+    text-align: center;
+    color:white;
+    font-size: 12px;
+    width: 100%;
+}
+
+.add-card-red {
+    background: #d66035;;
+    z-index: 3;
+}
+
+.add-card-green {
+    background: #34ac34;
+    z-index: 3;
+}
+
+.add-card-hide-message {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 2s, opacity 3s linear;
+}
+
+#we {
+    color: white;
+}
+
+.blue-btn-border a {
+    color: white;
+    text-decoration: none;
+}

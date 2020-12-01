@@ -1,0 +1,20 @@
+/*.top-menu-bar-container {
+    padding-top: 6%;
+    padding-right: 6%;
+    padding-bottom: 6%;
+    padding-left: 8%;
+    display: flex;
+    height: 25px;
+    background-color: #ffffff;
+}
+
+.top-menu-bar-container a {
+    line-height: 35px;
+}
+
+.menu-bar-title {
+    line-height: 29px;
+
+    font-weight: 500;
+    font-size: 16.11px;
+}*/

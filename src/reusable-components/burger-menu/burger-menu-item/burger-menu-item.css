@@ -1,0 +1,27 @@
+.menu-item-container{
+    padding: 5% 5% 5%;
+    padding-left: 7%;
+    border: 1px solid #F6F2F2;
+    height: 42px;
+    line-height: 44px;
+    background: white;
+}
+
+.menu-item-span {
+    font-size: 13.78px;
+    font-weight: 400;
+}
+
+.menu-item-img {
+    position: absolute;
+}
+
+.img-active-container {
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-bottom: 7%;
+}
+
+.img-active-span {
+    margin-left: 20%;
+}

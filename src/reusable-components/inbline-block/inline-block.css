@@ -1,0 +1,107 @@
+.inline-block-container {
+    margin-top: 0.7%;
+    background-color: #ffffff;
+    height: 47px;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 8%;
+
+}
+
+#inline-block-body {
+
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    display: flex;
+
+}
+
+.title-subtitle-wrapper {
+    float: left;
+    height: 100%;
+    width: 80%;
+}
+
+.inline-block-radio-btn{
+    margin-right: 7% !important;
+}
+
+.MuiRadio-colorSecondary.Mui-checked {
+    color: #00BCD4 !important;
+}
+
+.month-name {
+    font-weight: 400;
+    font-size: 13.77px;
+    margin-top: 2%;
+}
+
+.viewDetailsLinkWrapper {
+    line-height: 36pt;
+    float: right;
+    height: 100%;
+    width: 19%;
+    text-align: center;
+}
+
+.viewDetailsLinkWrapper .rightArrow {
+
+}
+
+.title{
+    color: #199BD2;
+    font-size: 12.57px;
+    padding-bottom: 2%;
+    margin-top: 2%;
+    font-weight: 400;
+
+}
+
+.subtitle {
+    color: #000000;
+    font-size: 13.3px;
+    padding-top: 2%;
+}
+
+
+
+.switcher .MuiSwitch-colorPrimary.Mui-checked {
+    color: #66E0FB;
+}
+.switcher .MuiSwitch-switchBase {
+    color: #66E0FB;
+    top: 1px;
+}
+.switcher .MuiSwitch-thumb {
+    box-shadow: transparent;
+    width: 17px;
+    height: 17px;
+}
+.switcher .MuiSwitch-colorPrimary.Mui-checked + .MuiSwitch-track, .switcher .MuiSwitch-track {
+    background: white;
+    border: 1px solid #ECE0E0;
+}
+
+.switcher .MuiSwitch-track{
+    border-radius: 13px;
+    width: 89%;
+}
+
+.viewDetailsLinkWrapper .MuiSwitch-root{
+    width: 55px !important;
+    height: 35px !important;
+    display: inline-flex;
+    padding: 9px !important;
+}
+
+.switcher {
+    position: absolute;
+    right: 13%;
+    vertical-align: inherit;
+}
+
+.infoIcon {
+    position: absolute;
+    right: -13%;
+}

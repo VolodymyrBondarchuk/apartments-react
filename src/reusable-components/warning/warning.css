@@ -1,0 +1,11 @@
+.warning-message-div {
+    width: 100%;
+    height: calc(100vh);
+    text-align: center;
+
+    font-size: 20px;
+    font-weight: 500;
+    color: #ec5252;
+    background: antiquewhite;
+    padding-top: 9%;
+}

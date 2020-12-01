@@ -1,0 +1,45 @@
+.sign-up-apartment-container {
+  margin-top: 5px;
+  background-color: #ffffff;
+  height: 50px;
+  padding-left: 8%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+.sign-up-owner-and-owner-name{
+  display: inline-block;
+  width: 75%
+}
+#sign-up-owner {
+  color: #199bd2;
+  font-size: 11px;
+  font-weight: 500;
+
+}
+
+.sign-up-owner-name{
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: 3%;
+
+
+}
+#sign-up-apartment-body {
+  padding-top: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.sign-up-apartment-number{
+  font-size: 13px;
+  font-weight: bold;
+  display: inline-block;
+  height: 100%;
+  float: right;
+  line-height: 35px;
+  width: 11%;
+}
